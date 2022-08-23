@@ -1,0 +1,56 @@
+/* Selector{property: value;} */
+body,html{
+    /* width: 20px;
+    height: 50px; */
+    background: url(milkshake.jpg) ;
+   background-size: 90em 80em;
+   /* margin: 20px; */
+   
+    /* -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover; */
+    font-family: 'Lora' , 'sans-serif';
+
+}
+
+
+h1 {
+    font-size: 3rem;
+    color: brown;
+  margin-top: 100px;
+  margin-left: 120px;
+  }
+
+  hr{
+    margin: 20px auto;
+    color: coral;
+    border: 3px solid coral;
+    max-width: 65px;
+    opacity: 1;  
+  }
+
+  buffer{
+    height: 50rem;
+  }
+  
+  .btn{
+    font-weight: 700;
+  border-radius: 500px;
+  }
+
+  .btn-primary {
+    background-color: coral;
+    border-color: coral;
+  }
+  
+  .btn-primary:hover {
+    background-color: coral;
+    border-color: coral;
+    border-width: 4px;
+  }
+  .btn-xl {
+    padding: 1rem 2rem;
+  }
+  
+  
